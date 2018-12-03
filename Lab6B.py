@@ -4,8 +4,8 @@
 #Diego Aguirre - Professor
 #Manoj Saha - Assistant
 
-from Lab6utils import topological_sort
-from Lab6utils import kruskals
+from Lab6util import topological_sort
+from Lab6util import kruskals
 from GraphAL import GraphAL
 
 
